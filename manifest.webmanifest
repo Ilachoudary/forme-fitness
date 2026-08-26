@@ -1,0 +1,12 @@
+{
+  "name": "Forme — Personal Fitness Coach",
+  "short_name": "Forme",
+  "description": "Personal fitness, nutrition, hydration and workout tracker.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7f3",
+  "theme_color": "#5f7f62",
+  "orientation": "portrait-primary",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
